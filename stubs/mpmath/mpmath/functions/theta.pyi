@@ -1,0 +1,3 @@
+from .functions import defun_wrapped as defun_wrapped
+
+def jtheta(ctx, n, z, q, derivative: int = 0): ...
